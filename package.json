@@ -1,0 +1,10 @@
+{
+  "name": "kbank-naming-generator",
+  "version": "1.0.0",
+  "description": "Kbank 금융 상품·서비스 네이밍 AI 생성기",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}

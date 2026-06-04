@@ -1,0 +1,17 @@
+const ROLES = [
+  { id: 'compliance', label: '심의',       desc: '상품 및 서비스, 각종 광고의 심의를 맡고 있어요.' },
+  { id: 'fss',        label: '정책',        desc: '금융과 관련된 다양한 정책 관련 업무를 해요.' },
+  { id: 'event',      label: '이벤트 기획', desc: '가입자수 유치 및 MAU 활성화를 위한 이벤트를 기획하고 있어요.' },
+  { id: 'ad',         label: '광고',        desc: '광고를 만들어요.' },
+  { id: 'deposit',    label: '수신상품',    desc: '수신상품을 만들어요.' },
+  { id: 'app_func',   label: '앱 기능',     desc: '앱 내 다양한 편의 기능들을 개발해요.' },
+  { id: 'credit',     label: '여신상품',    desc: '여신상품을 만들어요.' },
+  { id: 'card',       label: '카드상품',    desc: '카드 상품을 만들어요.' },
+  { id: 'risk',       label: '리스크',      desc: '리스크 관리를 하고 있어요.' },
+  { id: 'ux',         label: '앱 UX',       desc: '앱 경험을 개선하고 있어요.' },
+  { id: 'design',     label: '디자인',      desc: '앱 전반의 디자인 가이드라인을 수립해요.' },
+  { id: 'partner',    label: '협력업체',    desc: '다양한 협력업체를 관리하고 있어요.' },
+  { id: 'finance',    label: '재무·회계',   desc: '재무회계를 담당해요.' },
+  { id: 'legal',      label: '법무',        desc: '법률 자문을 해주고 다양한 부서의 업무 관련 계약서를 검토해요.' },
+  { id: 'biz',        label: '기업금융',    desc: '기업 및 사장님 고객들을 대상으로 한 금융상품을 만들어요.' },
+];
